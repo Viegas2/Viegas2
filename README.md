@@ -1,28 +1,72 @@
-## Olá seja bem-vindo.
+## 👋 Olá, sou Daniel Viegas
 
-- 👋 Me chamo @Viegas2
-- 🚀 Em uma nova jornada
+🚀 Economista apaixonado por dados, atuando com **crédito, ciência e engenharia de dados**.  
+💡 Especialista em análise de risco, modelagem de dados e rentabilidade.  
+📊 Ferramentas: **SQL, Python, AWS (S3, EMR, Athena), GCP (BigQuery, Dataflow), Power BI, Excel Avançado**  
 
-### Atualmente estou aprendendo 
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> 
+### 📚 Sobre mim
 
+🎓 **Bacharel em Ciências Econômicas** pela UFRJ (2020 - 2025).  
+📈 Experiência em **analytics engineering, inteligência de mercado e políticas de crédito**.  
+📌 Atualmente: **Estagiário de Políticas de Crédito na Open Co**.  
 
+---
 
+### 🛠 Tecnologias e Ferramentas  
 
-### Contatos:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+---
 
-<div>
-<a href="https://www.instagram.com/theeviegas/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:dviegas010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/dviegaseco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-        
-</div>
+### 💼 Experiência Profissional  
 
+🔹 **Open Co (Nov/2024 - Atual) | Estagiário de Políticas de Crédito**  
+- Gestão de parcerias estratégicas e documentação de políticas.  
+- Criação e monitoramento de indicadores de rentabilidade (MOIC, TIR, Perda Esperada).  
+- Modelagem de dados para políticas de concessão de crédito BNPL.  
 
+🔹 **Open Co (Dez/2023 - Nov/2024) | Estagiário de Analytics Engineering**  
+- Manipulação e estruturação de dados em AWS e GCP.  
+- Automação de workflows para comitês de crédito e recuperação.  
+- Desenvolvimento de dashboards no Power BI.  
 
+🔹 **Grupo MAG (Abr/2022 - Dez/2023) | Estagiário de Inteligência de Mercado**  
+- Coleta e análise de dados para relatórios estratégicos.  
+- Desenvolvimento de dashboards para monitoramento do mercado segurador.  
 
+---
 
-<!---
-Viegas2/Viegas2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📌 Habilidades Técnicas  
+
+✔ **SQL** (PostgreSQL, Athena, BigQuery)  
+✔ **Python** (Pandas, NumPy, Scikit-learn, PySpark)  
+✔ **ETL** (AWS S3, EMR, Glue, Dataflow)  
+✔ **BI & Visualização de Dados** (Power BI, Quicksight, Tableau)  
+✔ **Automação & CI/CD** (GitHub, GitLab)  
+✔ **Modelagem Financeira e Indicadores de Crédito**  
+
+---
+
+### 📫 Contato  
+
+📧 **Email**: dviegas010@gmail.com  
+🌎 **LinkedIn**: [Daniel Viegas](https://www.linkedin.com/in/dviegaseco/)  
+📷 **Instagram**: [@theeviegas](https://www.instagram.com/theeviegas/?hl=pt-br)  
+
+---
+
+### ⭐ Projetos e Contribuições  
+
+📌 [Repositório de Análises de Dados](#) *(Exemplo, adicionar projetos reais aqui)*  
+📌 [Dashboard de Risco de Crédito](#) *(Adicionar link se houver)*  
+
+---
+
+💡 *Sempre aprendendo e explorando novas tecnologias para impulsionar negócios com dados!* 🚀
