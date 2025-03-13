@@ -13,6 +13,11 @@
 📌 Atualmente: **Analista de Políticas de Crédito na Open Co**.  
 
 ---
+## 📊 Linguagens mais usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=dark)
+
+---
 
 ### 🛠 Tecnologias e Ferramentas  
 
